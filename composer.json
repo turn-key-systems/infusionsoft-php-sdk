@@ -1,8 +1,8 @@
 {
-    "name": "novaksolutions/infusionsoft-php-sdk",
+    "name": "turn-key-systems/infusionsoft-php-sdk",
     "description": "A better Infusionsoft SDK for PHP",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
-    "version": "v1.0.1",
+    "version": "v1.0.1-dev",
     "license": "MIT",
     "homepage": "https://novaksolutions.com",
     "authors": [
